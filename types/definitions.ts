@@ -46,21 +46,6 @@ export const milestonesToPoints = {
  * For a given point value, what level is earned.
  * Sub-levels indicated by a decimal receive different compensation but are grouped into the same title.
  */
-// export const pointsToLevels = {
-//   "0": "0",
-//   "15": "1.1", // 15x1
-//   "23": "1.2",
-//   "31": "1.3",
-//   "42": "2.1", // 14x3
-//   "56": "2.2",
-//   "70": "2.3",
-//   "89": "3.1", // 13x6
-//   "104": "3.2",
-//   "120": "4.1", // 12x10
-//   "140": "4.2",
-//   "165": "5", // 11x15
-// };
-
 export const pointsToLevels = {
   "0": "0",
   "16": "1.1", // 16x1
