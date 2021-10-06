@@ -46,7 +46,7 @@ The dedicated `management` track will not be relevant for non-managers. It is in
 
 ##### Milestones 
 
-A milestone rating should represent the skills and behaviors a person can currently and consistently produce in a given track.
+A milestone rating should represent the skills and behaviors a person can currently and **consistently** produce in a given track.
 
 Milestones are defined from 0 to 5. The "base class" implementation of each level follows this progression:
 
@@ -71,7 +71,7 @@ For most tiers, the ratings of a well balanced team should form a normal distrib
 
 ##### Tiers & Levels
 
-Each tier earns a base salary increase, while each level earns a new title:
+Each tier cooresponds with base salary, while each level cooresponds to a new title:
 
 | Level | Maker Track Title            | Manager Track Title        |
 |:-----:|:-----------------------------|:---------------------------|
