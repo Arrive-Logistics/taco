@@ -4,6 +4,8 @@ TACO started out as Medium's [career growth](https://medium.com/s/engineering-gr
 
 This is very much a work in progress and anything here many change at any time. We will continue iterating as we learn more.
 
+**It's critical to note** that this is a tool for managers and employees to collaborate on career growth, not a calculator for your title and salary. There are many factors involved in career advancement and compensation adjustments. This tool exists to help make sure we are aligned on growth and expectations.
+
 ## Philosophy
 
 We liked a lot of things about Medium's career growth framework, and other similar frameworks we've encountered in other organizations. Here are the things we liked about others' career frameworks that we've adopted for ours:
@@ -32,7 +34,7 @@ Proponents of strong CI/CD systems argue that when deployment is easy, you will 
 
 People are evaluated on a number of different `tracks`. Each track defines a set of advancement `milestones` which will earn you more `points`. More advanced milestones are worth more points, because it is harder to achieve total mastery of something than to achieve a basic familiarity.
 
-In order to advance to the next `tier`, you must accumulate a certain number of points. Multiple tiers are grouped into a `level`, which has one or more `titles` associated with it. There are more tiers than levels so we can standardize compensation at each tier and still offer granular advancement opportunities.
+In order to advance to the next `tier`, you must accumulate a certain number of points. Multiple tiers are grouped into a `level`, which has one or more `titles` associated with it. The goalis for you and your manager to be aligned on where you need to grow, and how to be on track for advancement.
 
 ##### Tracks & Categories
 
